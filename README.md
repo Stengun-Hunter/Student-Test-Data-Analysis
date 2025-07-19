@@ -12,4 +12,4 @@ Steps:
 5. Visualization of data with line chart, bar chart, matrix, pie chart, treemap, and filled map.
 
 Snapshots:  https://github.com/Stengun-Hunter/Student-Test-Data-Analysis/blob/main/Student%20Data%20Dashboard%20Snapshot.png
-            https://github.com/Stengun-Hunter/Student-Test-Data-Analysis/blob/main/Student%20Data%20Dashboard%20Snapshot%202.png
+https://github.com/Stengun-Hunter/Student-Test-Data-Analysis/blob/main/Student%20Data%20Dashboard%20Snapshot%202.png
